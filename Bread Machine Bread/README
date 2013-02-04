@@ -1,0 +1,10 @@
+This directory contains recipes for bread (vegan, of course), adjusted to work
+well in a bread machine.
+
+You will need to adjust the amount of water according to the ambient humidity
+in which you're baking (the higher the humidity, the less water you should
+use). I've never figured out a formula for this; it remains a black art to me.
+If you have suggestions, please submit a pull request, or email me at
+quinn@fairpath.com. Thanks!
+
+PS: I was really tempted to name this directory "Lisp Machine Lisp".
