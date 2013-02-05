@@ -5,7 +5,7 @@ This is my go-to recipe for hearty, yeasty bread to accompany soup.
 There are two variants: one for a one-pound loaf, which will work in any bread
 machine, and one for a one-and-a-half-pound loaf, which will work only in
 bread machines big enough to accomodate that size. Most bread machines can
-make one-and-a-half-pound loaves, but check your docs (or play with the
+make one-and-a-half-pound loaves, but do check your docs (or play with the
 controls, which will have separate settings for each load size).
 
     1½ Pound Variant
@@ -26,8 +26,8 @@ controls, which will have separate settings for each load size).
 2 teaspoons yeast
 
 Remove the pan from the bread machine. In the pan, mix the ingredients from
-Group 1. Slowly stir in the ingredients from Group 2.  Add the ingredients
-from Group 3. Without delay, put the pan in the machine, select 1½ pounds, and
+Group 1. Dump in the ingredients from Group 2. Add the ingredients from Group
+3, then, without delay, put the pan in the machine, select 1½ pounds, and
 press start.
 
     1 Pound Variant
