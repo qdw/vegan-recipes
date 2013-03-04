@@ -1,4 +1,5 @@
-Unordered collection of pro tips learned by doing:
+Unordered collection of pro tips learned by doing
+-------------------------------------------------
 
 * Certain things should be washed right after use, or they become really hard
   to clean:
@@ -15,3 +16,6 @@ Unordered collection of pro tips learned by doing:
   the oil first. That way the nectar will slide off the measuring device,
   rather than sticking.
 
+* Baked goods: test them for doneness by taking a wooden spoon and pushing
+  down lightly on the center of teh good. If it springs back up, it's done.
+  This test is more reliable than the "stick a fork in it" test.
