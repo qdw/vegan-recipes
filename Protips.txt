@@ -16,6 +16,8 @@ Unordered collection of pro tips learned by doing
   the oil first. That way the nectar will slide off the measuring device,
   rather than sticking.
 
-* Baked goods: test them for doneness by taking a wooden spoon and pushing
-  down lightly on the center of teh good. If it springs back up, it's done.
-  This test is more reliable than the "stick a fork in it" test.
+* Baked goods: you can test for doneness by taking a wooden spoon and pushing
+  down lightly on the center of whatever it is you're baking. If it springs
+  back up, it's done. This test is more reliable than the more widely known
+  "stick a fork in it" test. Thanks to C for teaching me this one.
+
