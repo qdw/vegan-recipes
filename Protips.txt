@@ -1,5 +1,5 @@
-Unordered collection of pro tips learned by doing
--------------------------------------------------
+Unordered collection of pro tips learned along the way
+------------------------------------------------------
 
 * Certain things should be washed right after use, or they become really hard
   to clean:
@@ -20,4 +20,8 @@ Unordered collection of pro tips learned by doing
   down lightly on the center of whatever it is you're baking. If it springs
   back up, it's done. This test is more reliable than the more widely known
   "stick a fork in it" test. Thanks to C for teaching me this one.
+
+* If you're going to freeze bread, use the "light crust" setting (assuming you
+  have a bread machine, and it supports that). Also maybe turn up the humidity
+  in your freezer. : P
 

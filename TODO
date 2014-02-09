@@ -1,0 +1,8 @@
+1. Convert recipes from UTF-8. The Dropbox iPhone app doesn't display UTF-8
+   characters properly.
+
+   This entails removing UTF-8 vulgar fractions and replacing accented
+   vowels with their unaccented versions (e.g. changing "sauté" to "saute").
+
+2. Convert the recipes to Markdown, but keep the .txt extension
+   so that files will open correctly on all platforms.
