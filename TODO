@@ -5,4 +5,8 @@
    vowels with their unaccented versions (e.g. changing "sauté" to "saute").
 
 2. Convert the recipes to Markdown, but keep the .txt extension
-   so that files will open correctly on all platforms.
+   so that files will open correctly on all platforms (maybe use
+   .markdown.txt to indicate to human users that they can feed
+   the text to a Markdown viewer )?
+
+3. Convert filenames to lisp-case-because-i-like-it-better.
